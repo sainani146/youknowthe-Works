@@ -1,0 +1,108 @@
+body {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+.resume {
+  background-color: #ffa1a9;
+  color: #2a2a63;
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+}
+
+.profilelogo {
+  width: 150px;
+  height: 150px;
+}
+
+.icon-section {
+  position: relative;
+  top: 20px;
+  text-align: center;
+}
+
+.details {
+  display: flex;
+  flex-direction: row;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+}
+
+.userdetails {
+  border-right: 6px solid #2a2a63;
+  border-bottom: 6px solid #2a2a63;
+  padding: 10px;
+  height: fit-content;
+}
+
+.worklogo {
+  width: 150px;
+  height: 150px;
+  border: 6px solid #2a2a63;
+  border-radius: 80px;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.educationDetails {
+  width: 100%;
+  padding: 15px;
+  padding-right: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.skillslogo {
+  width: 150px;
+  height: 150px;
+  border: 6px solid #2a2a63;
+  border-radius: 80px;
+  padding: 20px;
+  margin-top: 60px;
+}
+.skills {
+  width: fit-content;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Skilldetails {
+  display: flex;
+  flex-direction: row;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  border: 6px solid #2a2a63;
+  padding-right: 5px;
+  border-left: none;
+  border-right: none;
+}
+.skillsDetails {
+  border-right: 6px solid #2a2a63;
+  padding: 10px;
+  height: fit-content;
+}
+.dot {
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+.interests {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.int-img {
+  width: 200px;
+}
+.intdetails {
+  border-bottom: 6px solid #2a2a63;
+}
+
+.edu-details {
+  display: flex;
+}
