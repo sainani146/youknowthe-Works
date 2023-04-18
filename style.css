@@ -64,6 +64,7 @@ body {
 
 .skills {
   display: flex;
+  align-items: center;
 }
 
 .Skilldetails {
